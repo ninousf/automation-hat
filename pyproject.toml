@@ -52,10 +52,7 @@ path = "automationhat/__init__.py"
 
 [tool.hatch.build]
 include = [
-    "automationhat",
-    "README.md",
-    "CHANGELOG.md",
-    "LICENSE"
+    "automationhat"
 ]
 
 [tool.hatch.build.targets.sdist]
